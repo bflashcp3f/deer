@@ -74,6 +74,10 @@ bash scripts/ncbi/run_deer_icl.sh 8 openai text-embedding-3-small openai gpt-4o-
 bash scripts/ncbi/run_deer_er.sh 8 deer openai text-embedding-3-small openai gpt-4o-mini-2024-07-18 64 1.0 1.0 0.01 1 0.75 0.75 0.95
 ```
 
+## Evaluation
+
+Detailed evaluation results can be found in the Jupyter notebooks under the `notebooks/` directory:
+
 ## Citation
 
 If you use DEER in your research, please cite:
