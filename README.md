@@ -1,5 +1,5 @@
 # Label-Guided In-Context Learning for Named Entity Recognition
-This repo provides code and data associated with the paper ["Label-Guided In-Context Learning for Named Entity Recognition"](https://arxiv.org/pdf/2505.23722).
+This repo provides code and data associated with EMNLP 2025 paper ["Label-Guided In-Context Learning for Named Entity Recognition"](https://arxiv.org/pdf/2505.23722).
 
 ## Installation
 
