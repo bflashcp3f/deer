@@ -82,14 +82,15 @@ Detailed evaluation results can be found in the Jupyter notebooks under the `not
 
 If you use DEER in your research, please cite:
 ```bibtex
-@misc{bai2025labelguidedincontextlearningnamed,
-      title={Label-Guided In-Context Learning for Named Entity Recognition}, 
-      author={Fan Bai and Hamid Hassanzadeh and Ardavan Saeedi and Mark Dredze},
-      year={2025},
-      eprint={2505.23722},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.23722}, 
+@inproceedings{bai-etal-2025-llms,
+    title = "{LLM}s are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition",
+    author = "Bai, Fan  and
+      Hassanzadeh, Hamid  and
+      Saeedi, Ardavan  and
+      Dredze, Mark",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    year = "2025",
+    publisher = "Association for Computational Linguistics",
 }
 ```
 
