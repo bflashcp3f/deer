@@ -1,4 +1,4 @@
-# Label-Guided In-Context Learning for Named Entity Recognition
+# LLMs are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition
 This repo provides code and data associated with EMNLP 2025 paper ["LLMs are Better Than You Think: Label-Guided In-Context Learning for Named Entity Recognition"](https://arxiv.org/pdf/2505.23722).
 
 ## Installation
